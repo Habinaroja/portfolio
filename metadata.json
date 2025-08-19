@@ -1,0 +1,5 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A dynamic personal portfolio web application for a software developer, built with React and Tailwind CSS. It features sections for summary, education, skills, projects, and more. Project descriptions and a professional summary are dynamically generated using the Gemini API.",
+  "requestFramePermissions": []
+}
